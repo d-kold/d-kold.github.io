@@ -1,27 +1,19 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Devendra Kulkarni.
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hi! I’m Devendra…Dev for short. 👋🏼
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+I use this space for ….hmm 🤔, well let’s call it my digital scratchpad that I want you to see. You can find posts on topics that interest me; from podcasts to research papers to movies.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+A little about me…
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+I am an Electrical Engineer. I work as a Product Operations Lead at a B2B SaaS company where I work at the intersection of software and energy analytics. I enjoy indulging in the daily news drama with my morning coffee…well as a matter of fact any drama would do ;) Oh and I vehemently forage the interwebs for jokes and good music.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+I like to read up on software, products and management. You can find my current reading list here.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+You can reach out to me through my social media profiles or write to <a href = "mailto: kulkarnidevendra21@gmail.com">me</a>
+ to discuss ideas, collaborate or to just ketchup.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+Fin <br>Dev
