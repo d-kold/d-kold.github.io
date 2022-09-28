@@ -1,5 +1,5 @@
 ---
-title: 🪴 Devendra Kulkarni.
+title: Devendra Kulkarni.
 enableToc: false
 ---
 
